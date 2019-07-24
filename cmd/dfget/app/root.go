@@ -112,7 +112,7 @@ func checkParameters() {
 		fmt.Println("Please use the command 'help' to show the help information.")
 		os.Exit(0)
 	}
-}
+}x
 
 // load config from property files.
 func initProperties() {
